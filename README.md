@@ -1,5 +1,4 @@
-# Good Books
-Books that I have found interesting and recommend.
+# Books, videos and other recommended education materials
 
 ## Machine Learning and Data Science Books
 
