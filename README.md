@@ -19,6 +19,8 @@ Books that I have found interesting and recommend.
 * Kubernetes: https://kubernetes.io/docs/home/
 * TensorFlow: https://www.tensorflow.org/
 * Awesome link for key deep learning papers: https://github.com/terryum/awesome-deep-learning-papers
+* [StarCraft II API](https://github.com/Blizzard/s2client-proto)
+* [Contributing to Google Cloud Open Source Projects](https://www.youtube.com/watch?v=i3HrvRlfms4) - a brief presentation I made at FOSSASIA Summit 2017
 
 ## Articles and Case Studies related to Machine Learning
 * [How a Japanese cucumber farmer is using deep learning and TensorFlow](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow)
@@ -37,7 +39,3 @@ Books that I have found interesting and recommend.
 * [Stanford OpenClassroom](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)
 * [Bay Area Deep Learning School](https://www.bayareadlschool.org/)
 * [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-
-## Other Resources that Might be of Interest
-* [Contributing to Google Cloud Open Source Projects](https://www.youtube.com/watch?v=i3HrvRlfms4) - a brief presentation I made at FOSSASIA Summit 2017
-
