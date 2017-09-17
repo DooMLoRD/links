@@ -37,3 +37,7 @@ Books that I have found interesting and recommend.
 * [Stanford OpenClassroom](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)
 * [Bay Area Deep Learning School](https://www.bayareadlschool.org/)
 * [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
+## Other Resources that Might be of Interest
+* [Contributing to Google Cloud Open Source Projects](https://www.youtube.com/watch?v=i3HrvRlfms4) - a brief presentation I made at FOSSASIA Summit 2017
+
