@@ -2,11 +2,11 @@
 
 ## Machine Learning and Data Science Books
 
-* [Deep Learning Book](http://www.deeplearningbook.org/)
-* [Doing Data Science](https://books.google.co.in/books?id=vcVKAQAAQBAJ&printsec=frontcover&dq=doing+data+science&hl=en&sa=X&ved=0ahUKEwiexKHuobfTAhVJqI8KHZUMAhgQ6AEIITAA#v=onepage&q=doing%20data%20science&f=false)
-* [Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)
-* [Hands-On Machine Learning with Scikit-Learn and Tensorflow](http://shop.oreilly.com/product/0636920052289.do)
-* [Reinforcement Learning](http://incompleteideas.net/sutton/book/the-book.html)
+* [Deep Learning Book](http://www.deeplearningbook.org/) - Excellent and current book for the emerging area of Deep Learning.
+* [Doing Data Science](https://books.google.co.in/books?id=vcVKAQAAQBAJ&printsec=frontcover&dq=doing+data+science&hl=en&sa=X&ved=0ahUKEwiexKHuobfTAhVJqI8KHZUMAhgQ6AEIITAA#v=onepage&q=doing%20data%20science&f=false) - Has chapters with lectures from different industries and how they apply ML. Also, good introductory chapter on how to build an effective Data Science team.
+* [Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html) - The classic text book for the field. A new edition is coming up shortly and drafts can be found at this link.
+* [Hands-On Machine Learning with Scikit-Learn and Tensorflow](http://shop.oreilly.com/product/0636920052289.do) - If you're ready to get hands on, this book is an excellent choice. Even covers Reinforcement Learning with Deep Q-networks.
+* [Reinforcement Learning](http://incompleteideas.net/sutton/book/the-book.html) - If you are ready to dwelve into Reinforcement Learning, this is the reference text in many (probably most) university classes.
 
 ## IT Infrastructure and Operations
 
