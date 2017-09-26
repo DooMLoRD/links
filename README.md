@@ -11,6 +11,8 @@
 ## IT Infrastructure and Operations
 
 * [Site Reliability Engineering](https://landing.google.com/sre/book.html)
+* [Spinnaker](https://www.spinnaker.io/)
+* [Istio](https://istio.io/)
 
 ## Relevant Video Snippets and Links
 * Deep Learning School (optimizing model): https://youtu.be/F1ka6a13S9I?t=21m52s
@@ -30,6 +32,7 @@
 * [TensorFlow: An open-source software library for Machine Intelligence](https://www.tensorflow.org/)
 * [Build and train machine learning models on our new Google Cloud TPUs](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/)
 * [Preventing Overfishing with Machine Learning and Big Data Analytics (Google Cloud Next '17)](https://www.youtube.com/watch?v=WbxEUhhH0BU)
+* [Machine Learning Applications for Data Center Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42542.pdf)
 
 ## Online Machine Learning resources (small sample)
 * [Coursera](https://www.coursera.org/browse/data-science?languages=en)
