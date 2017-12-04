@@ -33,6 +33,7 @@
 * [Build and train machine learning models on our new Google Cloud TPUs](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/)
 * [Preventing Overfishing with Machine Learning and Big Data Analytics (Google Cloud Next '17)](https://www.youtube.com/watch?v=WbxEUhhH0BU)
 * [Machine Learning Applications for Data Center Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42542.pdf)
+* [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://www.kdd.org/kdd2017/papers/view/tfx-a-tensorflow-based-production-scale-machine-learning-platform) - Paper showing an end-to-end machine learning processing pipeline and how to automate ingestion, testing and deployment as well as creating a feedback loop based on real-life experience.
 
 ## Online Machine Learning resources (small sample)
 * [Coursera](https://www.coursera.org/browse/data-science?languages=en)
